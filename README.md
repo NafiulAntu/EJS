@@ -1,1 +1,1 @@
-
+EJS stands for Embedded JavaScript. It is a templating engine used in Node.js to generate dynamic HTML content. EJS allows developers to embed JavaScript code within HTML templates, enabling them to create dynamic web pages by injecting data and logic into the HTML structure on the server side. It is commonly used with frameworks like Express.js to build web applications.
