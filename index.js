@@ -1,8 +1,5 @@
 
-import express from "express";
 
-const app = express();
-const port = 3000;
 
 app.set("/", (req, res) => {
   const today = new Date("July 21, 1983 01:15:00");
